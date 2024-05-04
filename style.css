@@ -1,0 +1,187 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    margin: 15px 10px;
+    justify-content: space-between;
+}
+.iconne{
+    display: flex;
+
+
+}
+li{
+    list-style: none;
+
+}
+ul{
+    gap: 15px;
+}
+.second_section{
+    margin: 15px 10px;
+}
+.title{
+    font-weight: bold;
+    margin-left: 10px;
+}
+.cards{
+    display: flex;
+    gap: 15px;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 8px;
+    margin-top: 10px;
+    background-color:#242423;
+    width: 185px;
+    height: 100px;
+    border-radius: 10px;
+    justify-content: space-between;
+    color: white;
+    margin-right: 2px;
+
+}
+.img{
+    margin-left: 0px;
+}
+.picture{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 15px;
+
+}
+.third_section{
+    display: flex;
+    justify-content: space-between;
+   
+    
+}
+.section_card{
+
+    margin-left: 20px;
+    background: rgb(219, 217, 217);
+    width: 75px;
+    height: 75px;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px ;
+    border-radius: 15px;
+
+  
+}
+h5{
+    padding: 10px 0px;
+    
+}
+.title_s{
+    margin:50px 20px 10px;
+
+    
+}
+.cards_service{
+    display: flex;
+    gap: 15px;
+    justify-content: space-between;
+    margin-left: 20px;
+    
+
+}
+.spacer {
+    width: 10px; 
+    height: 100%;
+
+}
+.five_section{
+    display: flex;
+    justify-content: space-between;
+}
+h3{
+    margin: 20px;
+    margin-top: 30px;
+}
+.six_section{
+    display: flex;
+
+}
+.section{
+    margin-top: 150px;
+}
+.titre{
+    margin-top: 60px;
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.menu ul{
+    margin-top: 30px;
+}
+.icon_header{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(228, 226, 226);
+    margin-top: 60px;
+    height: 50px;
+    width: 110%;
+}
+.title_header{
+    font-size: 10px;
+    text-align: center;
+}
+.section_card_5{
+    background: rgb(219, 217, 217);
+    flex-direction: column;
+    align-items: center;
+    width: 75px;
+    height: 75px
+}
+.section_grid{
+    float: right;
+    
+}
+.grid{
+    display: grid;
+    grid-template-columns: 80px 80px;
+    
+
+
+}
+.ombre{
+    background-color: rgb(219, 217, 217);;
+    height: 65px;
+    width: 62px;
+    padding-top:5px ;
+    padding-left: 3px;
+    border-radius: 12px;
+    flex-direction: column;
+    align-items: center;
+}
+.ombrep{
+    background-color: rgb(219, 217, 217);
+    height: 65px;
+    width: 62px;
+    border-radius: 12px;
+    flex-direction: column;
+    align-items: center;
+    padding-top:10px ;
+    padding-left: 12px;
+
+
+}
+.ombrep h5{
+    margin-top: 7px;
+}
+.ico{
+    padding-top:5px ;
+    padding-left: 8px;
+
+}
